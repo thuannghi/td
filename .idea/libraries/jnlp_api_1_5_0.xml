@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jnlp-api-1.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jnlp-api-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
